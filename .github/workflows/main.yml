@@ -2,10 +2,11 @@ name: itvlist
 
 on:
   schedule:
-    - cron: '0 21 * * *'
+    - cron: '0 9,21 * * *'
   push:
     branches:
       - main
+  workflow_dispatch:  # 添加手动触发事件
 
 jobs:
   build:
