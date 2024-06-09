@@ -11,7 +11,7 @@ import eventlet
 eventlet.monkey_patch()
 
 urls = [
-    "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0ic2hpamlhemh1YW5nIg%3D%3D",  #shijiazhuang 石家庄
+    # "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0ic2hpamlhemh1YW5nIg%3D%3D",  #shijiazhuang 石家庄
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iaGFuZGFuIg%3D%3D",  # handan 邯郸
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0iYmFvZGluZyI%3D",  # baoding 保定
     "https://fofa.info/result?qbase64=IlpIR1hUViIgJiYgY2l0eT0idGFuZ3NoYW4i",  # tangshan 唐山
