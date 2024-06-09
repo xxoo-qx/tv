@@ -30,7 +30,7 @@ jobs:
         run: python ${{ github.workspace }}/itv_all.py
         
       - name: Run ZHGXTV
-        run: python ${{ github.workspace }}/itvall(ZHGXTV).py
+        run: python ${{ github.workspace }}/itvallZHGXTV.py
 
       #- name: Run cctv
         #run: python ${{ github.workspace }}/cctv.py
