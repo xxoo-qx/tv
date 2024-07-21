@@ -1,4 +1,5 @@
 央视频道,#genre#
+CCTV1,http://nnth.7766.org:85//tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://nnth.7766.org:85//tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://nnth.7766.org:85//tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://nnth.7766.org:85//tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
